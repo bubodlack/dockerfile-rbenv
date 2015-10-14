@@ -1,6 +1,6 @@
-FROM base
+FROM debian
 
-MAINTAINER tcnksm "https://github.com/tcnksm"
+#MAINTAINER tcnksm "https://github.com/tcnksm"
 
 # Install packages for building ruby
 RUN apt-get update

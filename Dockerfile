@@ -1,4 +1,4 @@
-FROM debian
+FROM phusion/baseimage-docker
 
 #MAINTAINER tcnksm "https://github.com/tcnksm"
 
